@@ -1,5 +1,7 @@
 # Dokploy Mobile
 
+> Unofficial community app. Not affiliated with or endorsed by Dokploy.
+
 An open-source Android app to manage your [Dokploy](https://dokploy.com) server from your phone. Works with any self-hosted Dokploy instance: you only need its URL and an API key.
 
 Built with Expo (React Native) and the official Dokploy REST API. No backend, no tracking: your key stays encrypted on your device and is only sent to your own instance.
